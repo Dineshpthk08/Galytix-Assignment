@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bS1i9D6pnsTW5ZbErJdhuSh6+RFKChIyWQAnXtc0WMQ=",
+  "Source": "GalytixAPI",
+  "BasePath": "_content/GalytixAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

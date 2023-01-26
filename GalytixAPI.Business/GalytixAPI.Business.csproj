@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GalytixAPI.Entities\GalytixAPI.Entities.csproj" />
+    <ProjectReference Include="..\GalytixAPI.Repository\GalytixAPI.Repository.csproj" />
+  </ItemGroup>
+
+</Project>
